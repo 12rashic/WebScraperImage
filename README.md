@@ -8,6 +8,7 @@ Prerequisite :
 3) cv2
 4)urllib
 5)Creating a folder,with a subfolder of image and python file.
+![](webimage1)
 
 Refer:
 url = https://www.pokemon.com/us/pokedex/
