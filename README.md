@@ -10,10 +10,6 @@ Also this project can be a good start to your Devops Journey if you're thinking 
               4. GitHub
 
 
-
-
-
-
               Prerequisite :
               1) Python3 
               2) Numpy
@@ -25,13 +21,11 @@ Also this project can be a good start to your Devops Journey if you're thinking 
              1)Visual Studio 
 
 
-
-
-
 ![Folder](https://github.com/12rashic/WebScraperImage/blob/master/webimage1.PNG)
 
 
   Refer:  Project website url = https://www.pokemon.com/us/pokedex/
+
 
   Table of Contents of Project Directory :
               1)Images folder(where images will get saved as you run the script)
