@@ -1,13 +1,13 @@
-# Image WebScrapper for downloading pokemon images 
+<h1>#💫 Image WebScrapper for downloading pokemon images </h1>
 
-Need diffrenet  pokemon pictures? Then this is a good start for you as Python web Scraper project.(About 800 images)
-Also this project can be a good start to your Devops Journey if you're thinking making use services like EC2 Jenkins, docker etc
+<h2> 🔮 Need diffrenet  pokemon pictures? Then this is a good start for you as Python web Scraper project.(About 800 images)</h2>
+<h2> 🔮 Also this project can be a good start to your Devops Journey if you're thinking making use services like EC2 Jenkins, docker etc </h2>
 
-              Services used :
-              1. EC2(ubuntu)
-              2. Jenkins
-              3. Docker
-              4. GitHub
+             <h3> Services used : </h3>
+            <OL><strong>   1. EC2(ubuntu)  </OL></strong> 
+            <OL> <strong>  2. Jenkins </OL> <strong>
+            <OL> <strong>  3. Docker   </OL> </strong>
+            <OL> <strong>  4. GitHub  </OL> </strong>
 
 
               Prerequisite :
